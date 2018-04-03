@@ -1,0 +1,22 @@
+ul {
+    /* list-style-type: none; */
+  }
+
+.top-list li {
+    display: list-item;
+    list-style-type: circle;
+}
+  
+.container {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+.top-menu {
+    float: left;
+}
+
+.top-list {
+    float: right;
+    margin-right: 30px;
+}
